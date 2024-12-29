@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/monogame/Asteroid Blaster/AsteroidBlaster/Content/BackgroundSong.wav</SourceFile>
+  <SourceTime>2024-08-01T10:15:28.2982072+03:00</SourceTime>
+  <DestFile>E:/monogame/Asteroid Blaster/AsteroidBlaster/Content/bin/DesktopGL/BackgroundSong.xnb</DestFile>
+  <DestTime>2024-08-01T10:27:41.1485899+03:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T14:44:56+03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T14:44:56+03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

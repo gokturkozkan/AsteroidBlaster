@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/monogame/Asteroid Blaster/AsteroidBlaster/Content/Asteroid Huge.png</File>
+    <File>D:/monogame/Asteroid Blaster/AsteroidBlaster/Content/Asteroid Large.png</File>
+    <File>D:/monogame/Asteroid Blaster/AsteroidBlaster/Content/Asteroid Medium.png</File>
+    <File>D:/monogame/Asteroid Blaster/AsteroidBlaster/Content/BackgroundSong.wav</File>
+    <File>D:/monogame/Asteroid Blaster/AsteroidBlaster/Content/Bullet.png</File>
+    <File>D:/monogame/Asteroid Blaster/AsteroidBlaster/Content/heart.png</File>
+    <File>D:/monogame/Asteroid Blaster/AsteroidBlaster/Content/ScoreFont.spritefont</File>
+    <File>D:/monogame/Asteroid Blaster/AsteroidBlaster/Content/ScoreFont2.spritefont</File>
+    <File>D:/monogame/Asteroid Blaster/AsteroidBlaster/Content/spaceShip.png</File>
+    <File>D:/monogame/Asteroid Blaster/AsteroidBlaster/Content/TitleFont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

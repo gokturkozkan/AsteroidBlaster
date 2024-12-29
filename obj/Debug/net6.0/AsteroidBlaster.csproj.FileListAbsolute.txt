@@ -1,0 +1,70 @@
+E:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\AsteroidBlaster.exe
+E:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\AsteroidBlaster.deps.json
+E:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\AsteroidBlaster.runtimeconfig.json
+E:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\AsteroidBlaster.dll
+E:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\AsteroidBlaster.pdb
+E:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\AsteroidBlaster.csproj.AssemblyReference.cache
+E:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\AsteroidBlaster.GeneratedMSBuildEditorConfig.editorconfig
+E:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\AsteroidBlaster.AssemblyInfoInputs.cache
+E:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\AsteroidBlaster.AssemblyInfo.cs
+E:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\AsteroidBlaster.csproj.CoreCompileInputs.cache
+E:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\Asteroid.F24C694B.Up2Date
+E:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\AsteroidBlaster.dll
+E:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\refint\AsteroidBlaster.dll
+E:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\AsteroidBlaster.pdb
+E:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\AsteroidBlaster.genruntimeconfig.cache
+E:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\ref\AsteroidBlaster.dll
+E:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\BackgroundSong.xnb
+E:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\ScoreFont.xnb
+E:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\ScoreFont2.xnb
+E:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\spaceShip.xnb
+E:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\TitleFont.xnb
+e:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\Bullet.xnb
+e:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\Asteroid Huge.xnb
+e:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\Asteroid Large.xnb
+e:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\Asteroid Medium.xnb
+e:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\heart.xnb
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\Asteroid Huge.xnb
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\Asteroid Large.xnb
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\Asteroid Medium.xnb
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\BackgroundSong.xnb
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\Bullet.xnb
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\heart.xnb
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\ScoreFont.xnb
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\ScoreFont2.xnb
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\spaceShip.xnb
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\Content\TitleFont.xnb
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\AsteroidBlaster.exe
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\AsteroidBlaster.deps.json
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\AsteroidBlaster.runtimeconfig.json
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\AsteroidBlaster.dll
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\AsteroidBlaster.pdb
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\monogame\Asteroid Blaster\AsteroidBlaster\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\AsteroidBlaster.csproj.AssemblyReference.cache
+D:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\AsteroidBlaster.GeneratedMSBuildEditorConfig.editorconfig
+D:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\AsteroidBlaster.AssemblyInfoInputs.cache
+D:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\AsteroidBlaster.AssemblyInfo.cs
+D:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\AsteroidBlaster.csproj.CoreCompileInputs.cache
+D:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\Asteroid.F24C694B.Up2Date
+D:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\AsteroidBlaster.dll
+D:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\refint\AsteroidBlaster.dll
+D:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\AsteroidBlaster.pdb
+D:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\AsteroidBlaster.genruntimeconfig.cache
+D:\monogame\Asteroid Blaster\AsteroidBlaster\obj\Debug\net6.0\ref\AsteroidBlaster.dll
